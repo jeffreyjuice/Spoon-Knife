@@ -1,3 +1,9 @@
+Testing out this fork process…
+
+Jeffrey Grannis
+jgrannis@gmail.com
+
+
 ### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
